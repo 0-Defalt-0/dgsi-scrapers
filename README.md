@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Scrapy project is designed to scrape data from the [Supreme Court of Justice](http://www.dgsi.pt) website and store it in a SQLite database. It extracts information about legal rulings, including document contents, links, and dates.
+This Scrapy project is designed to scrape data from the [Supreme Court of Justice](http://www.dgsi.pt/jstj.nsf?OpenDatabase) website and store it in a SQLite database. It extracts information about legal rulings, including document contents, links, and dates.
 
 ## Setup
 
